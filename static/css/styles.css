@@ -1,0 +1,35 @@
+body {
+    background-color: #72b8bb;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #2eadb6;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.btn-secondary {
+    background-color: #2eadb6;
+    border-color: #2eadb6;
+}
+
+.btn-secondary:hover {
+    background-color: #1d7d85;
+    border-color: #1d7d85;
+}
+
+footer {
+    background-color: #2eadb6;
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
